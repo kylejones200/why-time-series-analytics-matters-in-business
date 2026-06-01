@@ -11,14 +11,7 @@ The field's origins trace back to the industrial revolution, when manufacturers 
 
 Taylor's methods spread rapidly through American industry. Henry Ford applied these principles alongside early time series methods to analyze assembly line efficiency, using temporal data to optimize production schedules. Taylor's followers expanded his approach, developing more sophisticated ways to measure and analyze time-based performance data.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
